@@ -14,8 +14,7 @@ This project provides a comprehensive analysis of the **Gym Members Exercise Dat
 ## Project Structure
 
 - **`gym_members_exercise_analysis.ipynb`**: Jupyter notebook containing the analysis, visualizations, and insights.
-- **`gym_members_exercise.csv`**: The raw dataset used for analysis (if applicable).
-- **`cleaned_gym_members_exercise.csv`**: The cleaned version of the dataset (if applicable).
+- **`gym_members_exercise.csv`**: The raw dataset used for analysis.
 
 ---
 
